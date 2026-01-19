@@ -1,0 +1,1 @@
+This is the term project for our Data Analysis and Visualization class (CMPE481) where we deal with a highly imbalanced heart attack data. We achieved an F1 score of 0.45 through different models and data processing steps, which is higher than what most people have achieved for this specific dataset.
